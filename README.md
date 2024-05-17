@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas 
 
-<!--
-**guilhermemateuss/guilhermemateuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é Guilherme 
 
-Here are some ideas to get you started:
+-sou estudante de escola publica 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou aprendendo progamação no Alura
+
+-utilizo este espaço para divulgar meus projetos, e também me organizar
+
+### entrar em contato comigo:
+guilhersilvamateus213@gmail.com
+
+![](https://media1.tenor.com/m/SobIbMCvS04AAAAC/musical-notes.gif)
